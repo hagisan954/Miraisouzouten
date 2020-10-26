@@ -1,4 +1,5 @@
 package jp.ac.hal.miraisouzouten2292;
+//branch作りました
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -23,14 +23,15 @@
                 android:layout_marginTop="10dp"
                 android:src="@drawable/haisoumap" />
 
-            <ImageView
-                android:id="@+id/imageView3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:src="@drawable/haisoutextbox" />
         </LinearLayout>
     </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:src="@drawable/haisoutextbox" />
 
     <TextView
         android:id="@+id/text_home"
